@@ -18,15 +18,7 @@ Lab 36 A for CF JS 401 Nights (n16)
 
 - [Gatsby Starters](https://www.gatsbyjs.org/starters/?v=2)
 
-**This is a starter for Gatsby.js V2.**
-
-**The older V1 version of this starter can be found on the v1 branch**
-
-Gatsby.js V2 starter based on the Forty site template, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
-
-## Preview
-
-https://gatsby-forty.surge.sh
+This portfolio uses [Gatsby Starter Forty](https://www.gatsbyjs.org/starters/codebushi/gatsby-starter-forty/)
 
 ### Setup and Running Locally
 
