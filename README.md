@@ -50,7 +50,7 @@ Here is an example of using the grid, for a 3 column layout:
 
 - [submission PR](https://github.com/earljay-caoile-401-advanced-javascript/portfolio/pull/1)
 - [GitHub actions](https://github.com/earljay-caoile-401-advanced-javascript/portfolio/actions)
-- [Netlify Deployment](https://nifty-goodall-fcbfde.netlify.app/)
+- [Netlify Deployment](https://brave-heyrovsky-106b18.netlify.app/)
 
 #### Resources
 
