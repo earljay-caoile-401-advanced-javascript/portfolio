@@ -13,7 +13,7 @@ const Menu = props => (
         </li>
         <li>
           <Link onClick={props.onToggleMenu} to="/portfolio">
-            Landing
+            Portfolio
           </Link>
         </li>
         <li>
