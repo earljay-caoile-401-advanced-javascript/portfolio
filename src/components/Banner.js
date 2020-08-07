@@ -10,6 +10,14 @@ const Banner = props => (
         <p>I'm a software developer.</p>
         <ul className="actions">
           <li>
+            <a
+              href="https://docs.google.com/document/d/1IJcVRf-8U82K6Wv3EtOznEau34jbHgXlB-VilChfAyk/edit?usp=sharing"
+              className="button"
+            >
+              Resume
+            </a>
+          </li>
+          <li>
             <a href="#one" className="button next scrolly">
               See Projects
             </a>
